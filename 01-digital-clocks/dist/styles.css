@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.4), #000000);
+}
+
+#clock{
+    max-width: 500px;
+    padding: 10px 20px;
+    font-size: 4rem;
+    border: 1px solid #242;
+    box-shadow: 0 20px 40px rgba(255, 251, 250, 0.5);
+    color: green;
+    border-radius: 8px;
+}
